@@ -10,13 +10,30 @@
 ```javascript
 const riikka = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, JavaScript, TypeScript, React, Vue.js, Node.js, Python],
-  tools: [Storyblok, Storybook, Express, Firebase, Git, Jira],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python"],
+  frontEnd: {
+    libraries: ["React", "Vue.js"],
+    frameworks: ["Nuxt"],
+    tools: ["Storybook", "Tailwind", "Bootstrap", "SCSS"]
+  },
+  backEnd: {
+    js: ["Node.js", "Express"],
+    python: ["Flask"],
+    apis: ["RESTful APIs"]
+  },
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  deployment: ["Vercel", "Firebase"],
+  cms: ["Storyblok", "WordPress"],
+  tools: ["Git", "Jira", "Firebase"],
+  architecture: [
+    "microservices", 
+    "event-driven", 
+    "design system pattern"
+  ],
   techCommunities: {
-                        member: "Mimmit Koodaa",
-                      },
- challenge: "I am doing the Full Stack open course focused on React"
+    member: "Mimmit Koodaa",
+  },
+  challenge: "I am doing the Full Stack open course focused on React, deepening my understanding of modern web development technologies and practices."
 }
 ```
 
