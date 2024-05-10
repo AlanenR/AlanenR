@@ -5,12 +5,13 @@
 
 [![Linkedin: riikkaalanen](https://img.shields.io/badge/-riikkaalanen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riikka%2Dalanen/)](https://www.linkedin.com/in/riikka%2Dalanen/)
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5leDJpbGllNTcwazdwaGo2YzBvOWluNGRpMDd4OWxqZmJ5bHE1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4Ejd70UQagCDvoASem/giphy.gif" width="50" style="vertical-align: middle;"> A little more about me... 
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5leDJpbGllNTcwazdwaGo2YzBvOWluNGRpMDd4OWxqZmJ5bHE1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4Ejd70UQagCDvoASem/giphy.gif" width="50" style="vertical-align: middle;" /> A little more about me...</h3>
+
 
 ```javascript
 const riikka = {
   pronouns: "she" | "her",
-  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python"],
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP"],
   frontEnd: {
     libraries: ["React", "Vue.js"],
     frameworks: ["Nuxt"],
@@ -22,13 +23,20 @@ const riikka = {
     apis: ["RESTful APIs"]
   },
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  cloudServices: [ "AWS", "Google Cloud"],
   deployment: ["Vercel", "Firebase"],
   cms: ["Storyblok", "WordPress"],
   tools: ["Git", "Jira", "Firebase"],
-  architecture: [
-    "microservices", 
-    "event-driven", 
+  architecture: [ 
+    "microservices",
+    "event-driven",
     "design system pattern"
+  ],
+   cybersecurity: [
+    "OWASP Top 10 vulnerabilities", 
+    "Secure coding practices", 
+    "Network security basics",
+    "Introduction to cryptography"
   ],
   techCommunities: {
     member: "Mimmit Koodaa",
@@ -37,4 +45,4 @@ const riikka = {
 }
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVqamF4ODQxaDUxanE2ZWtlN2VnMGRmdGYwbjNmYnJiNmN0M3UwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lonWFYfXEhH9dGnyX0/giphy.gif" width="60" style="vertical-align: bottom;"> <em>Feel free to reach out and say hello!</em>
+<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVqamF4ODQxaDUxanE2ZWtlN2VnMGRmdGYwbjNmYnJiNmN0M3UwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lonWFYfXEhH9dGnyX0/giphy.gif" width="50" style="vertical-align: middle;" /> <em>Feel free to reach out and say hello!</em></p>
